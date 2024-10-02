@@ -1,0 +1,33 @@
+{
+  "name": "Urna Eletrônica",
+  "short_name": "Urna Eletrônica",
+  "id": "com.lyrosoftware.urnaeletronica",
+  "description": "Um simples simulador de urna",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "Thumbnail.png",
+        "sizes": "36x36"
+      },{
+        "src": "Thumbnail.png",
+        "sizes": "48x48"
+      },{
+        "src": "Thumbnail.png",
+        "sizes": "72x72"
+      },{
+        "src": "Thumbnail.png",
+        "sizes": "96x96"
+      },{
+        "src": "Thumbnail.png",
+        "sizes": "144x144"
+      },{
+        "src": "Thumbnail.png",
+        "sizes": "192x192"
+      },{
+        "src": "Thumbnail.png",
+        "sizes": "512x512"
+      }]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "urna_32eletr_244nica",
+    "displayName": "Urna Eletrônica",
+    "version": "0.0.3",
+    "description": "Urna Eletrônica",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ecosystem:cordova"
+    ],
+    "author": "Ronaldo Negrão",
+    "devDependencies": {
+        "cordova-plugin-ionic-webview": "5.0.0"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-ionic-webview": {}
+        }
+    }
+}
